@@ -20,7 +20,8 @@ Follow the <a href="https://wiki.archlinux.org/title/Arch_Linux">Arch Way</a> of
 
 Internet connection is required, with wireless WIFI connection see <a href="https://wiki.archlinux.org/title/Wireless_network_configuration#Wi-Fi_Protected_Access">Wireless_network_configuration</a> to bring up WIFI connection before start the installation.
 
-Minimum usage
+WARNING - executing the script alis.sh will immediatelly reformat the disk and install Arch Linux according to the script and configuration.
+
 
 ```
 #                         # Start the system with latest Arch Linux installation media

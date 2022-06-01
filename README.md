@@ -9,8 +9,8 @@ Customised by optevo.
 
 ## To modify
 
-Update GITHUB_USER in download.sh
-Update alis.conf
+- Update GITHUB_USER in download.sh
+- Update alis.conf
 
 ## System installation
 

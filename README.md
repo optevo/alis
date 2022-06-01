@@ -24,7 +24,7 @@ For new features, improvements and bugs fill an issue in GitHub or make a pull r
 
 **Arch Linux Install Script (alis) is based on Arch Linux but is NOT approved, sponsored, or affiliated with Arch Linux or its related projects.**
 
-[![Arch Linux](https://raw.githubusercontent.com/optevo/alis/master/images/archlinux.svg "Arch Linux")](https://www.archlinux.org/)
+[![Arch Linux](https://raw.githubusercontent.com/picodotdev/alis/master/images/archlinux.svg "Arch Linux")](https://www.archlinux.org/)
 
 ## Index
 

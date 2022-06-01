@@ -5,6 +5,12 @@
 
 Arch Linux Install Script (or alis, also known as _the Arch Linux executable installation guide and wiki_) installs unattended, automated and customized Arch Linux system.
 
+Customised by optevo.
+
+## To modify
+
+Update GITHUB_USER in download.sh
+Update alis.conf
 
 ## System installation
 

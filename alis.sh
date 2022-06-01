@@ -211,22 +211,22 @@ function warning() {
     echo -e "Install device: $DEVICE."
     echo -e "Mount points: ${PARTITION_MOUNT_POINTS[@]}."
     echo ""
-    if [ "$WARNING_CONFIRM" == "true" ]; then
-        read -p "Do you want to continue? [y/N] " yn
-    else
-        yn="y"
-        sleep 2
-    fi
-    case $yn in
-        [Yy]* )
-            ;;
-        [Nn]* )
-            exit 0
-            ;;
-        * )
-            exit 0
-            ;;
-    esac
+    #if [ "$WARNING_CONFIRM" == "true" ]; then
+    #    read -p "Do you want to continue? [y/N] " yn
+    #else
+    #    yn="y"
+    #    sleep 2
+    #fi
+    #case $yn in
+    #    [Yy]* )
+    #        ;;
+    #    [Nn]* )
+    #        exit 0
+    #        ;;
+    #    * )
+    #        exit 0
+    #        ;;
+    #esac
 }
 
 function init() {

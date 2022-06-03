@@ -1846,7 +1846,7 @@ function end() {
         copy_logs
     fi
     
-    shutdown
+    shutdown now
 }
 
 function copy_logs() {

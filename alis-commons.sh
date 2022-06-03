@@ -315,7 +315,7 @@ function execute_user() {
 }
 
 function do_reboot() {
-    eject
+    eject -f
     umount -R ${MNT_DIR}/boot
     umount -R ${MNT_DIR}
     reboot
